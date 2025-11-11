@@ -1,0 +1,3 @@
+/Users/vojtakotrc/Documents/codebase/devtools/build/CMakeFiles/devtool.dir
+/Users/vojtakotrc/Documents/codebase/devtools/build/CMakeFiles/edit_cache.dir
+/Users/vojtakotrc/Documents/codebase/devtools/build/CMakeFiles/rebuild_cache.dir

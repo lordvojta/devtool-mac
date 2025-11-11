@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run devtool",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/devtool",
+      "args": ["uuid"],
+      "cwd": "${workspaceFolder}",
+      "MIMode": "lldb"
+    }
+  ]
+}

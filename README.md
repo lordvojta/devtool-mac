@@ -10,13 +10,13 @@ sudo cp build/devtool /usr/local/bin/devtool
 devtool uuid
 
 # Slugify text
-devtool slugify "Firemní systém na míru"
+devtool slugify "XXXXXX"
 
 # Convert case formats
 devtool case kebab|snake|camel|pascal "Input Text"
 
 # URL encode / decode
-devtool url encode "žluťoučký kůň"
+devtool url encode "XXXXXX"
 devtool url decode "%C5%A1"
 
 # Base64 encode / decode

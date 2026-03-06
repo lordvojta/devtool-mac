@@ -1,0 +1,15 @@
+# Build output
+build/
+devtool
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
